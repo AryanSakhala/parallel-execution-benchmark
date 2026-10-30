@@ -1,6 +1,0 @@
-__pycache__/
-benchmark_results.csv
-*.png
-.DS_Store
-venv/
-.env
